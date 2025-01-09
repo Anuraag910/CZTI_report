@@ -1,2 +1,2 @@
 # CZTI_report
-Codes to analysis for the CZTI data
+Codes for analysis of CZTI data
